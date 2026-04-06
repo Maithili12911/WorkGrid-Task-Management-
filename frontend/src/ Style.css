@@ -1,0 +1,30 @@
+.container{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:#f5f6fa;
+}
+
+.box{
+background:white;
+padding:30px;
+width:300px;
+box-shadow:0 0 10px #ccc;
+}
+
+input{
+width:100%;
+padding:10px;
+margin:5px 0;
+}
+
+button{
+width:100%;
+padding:10px;
+background:green;
+color:white;
+border:none;
+margin-top:10px;
+cursor:pointer;
+}
