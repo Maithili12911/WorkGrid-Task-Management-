@@ -6,7 +6,7 @@
 
 2. The platform to run in Visual Studio Code
 
-3. Please ensure you have react depenndencies installed and backend requirments installed
+3. Please ensure you have react dependencies installed and backend requirements installed
 
-4. You will first be directed to login page , in case of running first time please click regster and it will redirect you to register page , finally followed by dashboard.
+4. You will first be directed to login page , in case of running for the first time please click regster and it will redirect you to register page , finally followed by dashboard.
 
